@@ -1,4 +1,4 @@
-url: "https://wonderful-wescoff-35bc1d.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lustrous-babka-943fef.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "My Awesome Jekyll Blog" # the name of your site, e.g. ACME Corp.
 excerpt_separator: <!--more-->
